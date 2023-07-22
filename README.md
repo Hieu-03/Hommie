@@ -16,23 +16,30 @@ Hommie is an e-commerce website where customers can view, purchase decorations a
 - Home page
 ![Home page](/Pages_view/Home_page.png "home page")
 
+
 - Search for "tho"
-![Search for "tho"](/Pages_view/Search.png "search")
+![Search for "tho"](/Pages_view/Search_products.png "search")
+
 
 - Cart with products
 ![Cart after adding product to cart"](/Pages_view/Cart.png "cart")
 
+
 - Make order page
 ![Make order page](/Pages_view/Make_order.png "make order page")
+
 
 - Make order complete
 ![Make order complete(/Pages_view/Make_order_complete.png "make order complete")
 
+
 - Email confirm for that order
 ![Email confirm for that order](/Pages_view/Email.png "email")
 
+
 - Profile
 ![Profile](/Pages_view/Profile.png "profile")
+
 
 - Order view in profile
 ![Order view in profile](/Pages_view/Order_List.png "order list")
