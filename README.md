@@ -30,7 +30,7 @@ Hommie is an e-commerce website where customers can view, purchase decorations a
 
 
 - Make order complete
-![Make order complete(/Pages_view/Make_order_complete.png "make order complete")
+![Make order complete](/Pages_view/Make_order_complete.png "make order complete")
 
 
 - Email confirm for that order
