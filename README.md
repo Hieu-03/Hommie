@@ -12,7 +12,7 @@ Hommie is an e-commerce website where customers can view, purchase decorations a
 - Front-end: TypeScript, CSS, API, FireBase, Payment gateway integration (VNpay), Rest API.
 - Back-end: JDBC, API, Java, Lombok, SQL server, Spring Boot,  IntelliJ, Swagger, Gmail API.
 
-#### 3. View of Hommie
+#### 3. View of Hommie (some pages that customer can access)
 - Home page
 ![Home page](/Pages_view/Home_page.png "home page")
 
